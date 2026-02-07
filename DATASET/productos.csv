@@ -1,0 +1,15 @@
+CodigoProducto,Descripcion,Categoria,Marca,PrecioCosto,PrecioVentaSugerido
+1,"Televisor LED 55""",Televisores,Samsung,400.00,500.00
+2,Lavadora 8kg,Electrodomésticos,LG,350.00,450.00
+3,Refrigerador Doble Puerta,Electrodomésticos,Whirlpool,600.00,750.00
+4,Microondas 20L,Electrodomésticos,Panasonic,80.00,100.00
+5,Aspiradora Sin Bolsa,Electrodomésticos,Dyson,200.00,250.00
+6,Licuadora 600W,Electrodomésticos,Oster,50.00,70.00
+7,Home Theater 5.1,Electrónica,Sony,150.00,200.00
+8,"Computadora Portátil 15""",Computadoras,HP,500.00,650.00
+9,"Tablet 10""",Electrónica,Apple,300.00,400.00
+10,Smartwatch,Electrónica,Garmin,120.00,150.00
+11,phone,Electrónica,Samsung,120.00,150.00
+12,"Televisor LED 55""",Televisores,,400.00,500.00
+13,Lavadora 10kg,Electrodomésticos,LG,,650.00
+14,Refrigerador Simple Puerta,,Whirlpool,500.00,

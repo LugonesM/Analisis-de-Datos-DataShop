@@ -1,0 +1,21 @@
+FechaVenta,CodigoProducto,Producto,Cantidad,PrecioVenta,CodigoCliente,Cliente,CodigoTienda,Tienda
+2024-02-04,1,Televisor LED 55,1,500.00,2,Globex Corporation,1,ElectroShop Online
+2024-02-05,2,Lavadora 8kg,1,450.00,3,Initech,2,Tienda Central
+2024-02-06,3,Refrigerador Doble Puerta,2,750.00,4,Umbrella Corp,3,Outlet Norte
+2024-02-07,4,Microondas 20L,1,200.00,5,Weyland-Yutani,4,ElectroShop Sur
+2024-02-08,5,Aspiradora Sin Bolsa,1,150.00,6,Stark Industries,5,Tienda Premium
+2024-02-09,6,Licuadora 600W,3,100.00,7,Wayne Enterprises,6,ElectroShop Oeste
+2024-02-10,7,Home Theater 5.1,1,300.00,8,Dunder Mifflin,7,Tienda Express
+2024-02-11,8,Computadora Portátil 15,1,1000.00,9,Pied Piper,8,ElectroShop Este
+2024-02-12,9,Tablet 10,2,600.00,10,Hooli,9,Tienda Online Plus
+2024-02-13,10,Smartwatch,1,200.00,1,ACME Corp,10,ElectroShop California
+2024-02-14,1,Televisor LED 55,2,500.00,2,Globex Corporation,1,ElectroShop Online
+2024-02-15,2,Lavadora 8kg,1,450.00,3,Initech,2,Tienda Central
+2024-02-16,3,Refrigerador Doble Puerta,1,750.00,4,Umbrella Corp,3,Outlet Norte
+2024-02-17,4,Microondas 20L,2,200.00,5,Weyland-Yutani,4,ElectroShop Sur
+2024-02-18,5,Aspiradora Sin Bolsa,1,150.00,6,Stark Industries,5,Tienda Premium
+2024-02-19,6,Licuadora 600W,2,100.00,7,Wayne Enterprises,6,ElectroShop Oeste
+2024-02-20,7,Home Theater 5.1,1,300.00,8,Dunder Mifflin,7,Tienda Express
+2024-02-21,8,Computadora Portátil 15,3,1000.00,9,Pied Piper,8,ElectroShop Este
+2024-02-22,9,Tablet 10,1,600.00,10,Hooli,9,Tienda Online Plus
+2024-02-23,10,Smartwatch,2,200.00,1,ACME Corp,10,ElectroShop California

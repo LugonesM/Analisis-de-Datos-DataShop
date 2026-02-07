@@ -1,0 +1,16 @@
+CodCliente,RazonSocial,Telefono,Mail,Direccion,Localidad,Provincia,CP
+1,ACME Corp,123456789,contacto@acmecorp.com,Avenida Siempre Viva 123,Springfield,Illinois,62701
+2,Globex Corporation,987654321,ventas@globex.com,Calle Falsa 456,Shelbyville,Illinois,62705
+3,Initech,456123789,soporte@initech.com,Calle Principal 789,Capital City,Illinois,62710
+4,Umbrella Corp,321654987,info@umbrella.com,Bulevar Central 1010,Raccoon City,Illinois,62715
+5,Weyland-Yutani,159753486,contact@weylandyutani.com,Avenida Espacial 2020,Sevastopol,Alaska,99901
+6,Stark Industries,852456123,contact@starkindustries.com,Torre Stark 3030,New York,New York,10001
+7,Wayne Enterprises,963852741,contact@wayneenterprises.com,Mansión Wayne 4040,Gotham City,New Jersey,7001
+8,Dunder Mifflin,741852963,sales@dundermifflin.com,Calle de la Oficina 5050,Scranton,Pennsylvania,18501
+9,Pied Piper,789456123,info@piedpiper.com,Ruta 6060,Palo Alto,California,94301
+10,Hooli,321987654,contact@hooli.com,Avenida Innovación 7070,San Francisco,California,94101
+11,ACME Corp,,contacto@acmecorp.com,Avenida Siempre Viva 123,Springfield,,62701
+12,Globex Corporation,987654321,,Calle Falsa 456,Shelbyville,Illinois,
+13,Initech,456123789,soporte@initech.com,,Capital City,Illinois,62710
+14,Biohazard Inc,789321654,info@biohazard.com,Calle Peligro 666,,Illinois,62720
+15,,654987321,ventas@unknown.com,Avenida Perdida 999,Springfield,Illinois,

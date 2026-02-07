@@ -1,0 +1,15 @@
+CodigoTienda,Descripcion,Direccion,Localidad,Provincia,CP,TipoTienda
+1,ElectroShop Online,Avenida Internet 123,Virtual,Virtual,0,Online
+2,Tienda Central,Av. Principal 456,Springfield,Illinois,62701,Sucursal
+3,Outlet Norte,Calle Norte 789,Shelbyville,Illinois,62705,Sucursal
+4,ElectroShop Sur,Calle Sur 1010,Capital City,Illinois,62710,Sucursal
+5,Tienda Premium,Avenida Exclusiva 2020,Raccoon City,Illinois,62715,Sucursal
+6,ElectroShop Oeste,Av. Oeste 3030,Sevastopol,Alaska,99901,Sucursal
+7,Tienda Express,Torre Stark 4040,New York,New York,10001,Online
+8,ElectroShop Este,Calle Este 5050,Gotham City,New Jersey,7001,Sucursal
+9,Tienda Online Plus,Avenida Digital 6060,Scranton,Pennsylvania,18501,Online
+10,ElectroShop California,Av. California 7070,Palo Alto,California,94301,Sucursal
+11,Tienda Norte,,Silver City,Illinois,62701,Sucursal
+12,Outlet Sur,Calle Sur 789,,Illinois,62705,
+13,ElectroShop Norte,Calle Norte 1050,Capital City,Illinois,,Sucursal
+14,,47 street Av,West City,Illinois,62715,Online
