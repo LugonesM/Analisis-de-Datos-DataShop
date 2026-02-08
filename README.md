@@ -20,6 +20,15 @@ Contenidos: <br>
 • Carpeta “generar registros” – carpeta que contiene el Script de Python que se utilizo para generar los archivos CSV, al ejecutarlo los generan en esta carpeta  <br>
 • Carpeta “SVG Backgrounds “ – carpeta con los archivos SVG para la construcción del Tablero en Power BI  <br>
 
+<img width="1306" height="723" alt="Captura de pantalla (64)" src="https://github.com/user-attachments/assets/4b112376-b274-4293-8c6b-1c64a574f5b6" />
+
+<img width="1308" height="723" alt="Captura de pantalla (65)" src="https://github.com/user-attachments/assets/e3c11614-644a-4bfb-8abc-045ede16c872" />
+
+<img width="1318" height="725" alt="Captura de pantalla (66)" src="https://github.com/user-attachments/assets/cc6df001-a216-43cf-a8bf-071d99ffca1d" />
+
+<img width="1301" height="703" alt="Captura de pantalla (67)" src="https://github.com/user-attachments/assets/3780b659-db96-4f73-80db-6a82efc5cf8f" />
+
+
 <br><br>
 
 El archivo orquestador corre todos los scripts de Python y SQL necesarios para extraer los datos y cargarlos en las tablas del DW en el siguiente orden: <br>
