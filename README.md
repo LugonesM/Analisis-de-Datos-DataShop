@@ -1,6 +1,6 @@
 En este proyecto se presenta lo realizado en el ejercicio del Módulo 2 de una capacitacion de Analisis de Datos, cubriendo desde el 
-modelado de datos hasta la visualización en Power BI. 
-Fuentes de Datos: Generados a partir de un Script de Python tomando como guía los CVS dados en el ejercicio. Se usaron algunas Listas ya definidas y un Diccionario con datos generados por IA. Se establecen 40 productos y 180 Clientes. 
+modelado de datos hasta la visualización en Power BI.  <br>
+Fuentes de Datos: Generados a partir de un Script de Python tomando como guía los CVS dados en el ejercicio. Se usaron algunas Listas ya definidas y un Diccionario con datos generados por IA. Se establecen 40 productos y 180 Clientes.  <br>
 Rango de fechas para las ventas va desde 1/2020 hasta el 10/2025. El mes de octubre de 2025 es el mes adicional (ventas_add.csv). 
 <br>
 Contenidos: <br>
