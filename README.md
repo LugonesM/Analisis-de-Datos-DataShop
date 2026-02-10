@@ -18,7 +18,9 @@ Contenidos: <br>
 • DataShop_1.pbix – archivo de Power BI con el tablero para visualizar los datos  <br>
 • Carpeta “DATASET” – carpeta que contiene los archivos CSV de donde los Scripts de Python toman los datos  <br>
 • Carpeta “generar registros” – carpeta que contiene el Script de Python que se utilizo para generar los archivos CSV, al ejecutarlo los generan en esta carpeta  <br>
-• Carpeta “SVG Backgrounds “ – carpeta con los archivos SVG para la construcción del Tablero en Power BI  <br>
+• Carpeta “SVG Backgrounds “ – carpeta con los archivos SVG para la construcción del Tablero en Power BI  <br> <br>
+
+<img width="1069" height="623" alt="Captura de pantalla (63)" src="https://github.com/user-attachments/assets/b1a08f72-37a7-4241-be4a-937152870b45" />  
 
 <img width="1306" height="723" alt="Captura de pantalla (64)" src="https://github.com/user-attachments/assets/4b112376-b274-4293-8c6b-1c64a574f5b6" />
 
